@@ -3,12 +3,6 @@ Repository created for Hahn-Softwareentwicklung
 
 # `Hahn-FrontEnd-JS`
 
-This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
-
-For more information, go to https://aurelia.io/docs/cli/webpack
-
-## Run dev app
-
 Run `npm start`, then open `http://localhost:8080` Or Run `au run --open` and it will launch application at `http://localhost:8080`.
 
 This is a sample application being developed as a part of assessment test given by Hahn-Softwareentwicklung.
